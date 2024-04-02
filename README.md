@@ -12,6 +12,8 @@ Data Proprocessing:
     
     -Variables that should be removed are EIN, NAME, SPECIAL CONSIDERATIONS and STATUS.
 
+    
+
 Compiling, Training, and Evaluating the Model
 
 For the optimized model, I chose four hidden layers.
@@ -28,6 +30,8 @@ For the optimized model, I chose four hidden layers.
 -I was not able to achieve the target model performance. The max percentage was around 72%. 
 
 -In order to increase my model's performance, I dropped the SPECIAL CONSIDERATIONS and STATUS variables. I also added bins for the INCOME_AMT variable. I increased the number of hidden layers and included different activation functions as well.
+
+
 
 Summary
 
