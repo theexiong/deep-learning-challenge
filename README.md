@@ -30,4 +30,5 @@ For the optimized model, I chose four hidden layers.
 -In order to increase my model's performance, I dropped the SPECIAL CONSIDERATIONS and STATUS variables. I also added bins for the INCOME_AMT variable. I increased the number of hidden layers and included different activation functions as well.
 
 Summary
+
 Overall this deep learning model did not achieve the target percentage of 75%. The max percentage this model achieved was 72%. A different model with more layers and epochs may predict this dataset better. If there were more variables included that were more relevant to the outcome of the charity, that would help tremendously. I feel that the data that was supplied just did not really define if a charity would be successful or not. The pattern is not defined enough to predict correctly. 
