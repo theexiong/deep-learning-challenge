@@ -6,7 +6,7 @@ This assignment's purpose was to create a model that would be able to predict if
 Results
 Data Proprocessing: 
     -Target variable was the IS_SUCCESSFUL column
-    -Features were all other columns (EIN, NAME, APPLICATION_TYPE, AFFILIATION, CLASSIFICATION,USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS and ASK_AMT)
+    -Features were all other columns (EIN, NAME, APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS and ASK_AMT)
     -Variables that should be removed are EIN, NAME, SPECIAL CONSIDERATIONS and STATUS.
 
 Compiling, Training, and Evaluating the Model
