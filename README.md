@@ -13,6 +13,7 @@ Data Proprocessing:
     -Variables that should be removed are EIN, NAME, SPECIAL CONSIDERATIONS and STATUS.
 
 Compiling, Training, and Evaluating the Model
+
 -For the optimized model, I chose four hidden layers.
     
     1. units=40, activation=relu, input_dim=35
